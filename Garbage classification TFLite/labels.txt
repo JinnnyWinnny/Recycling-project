@@ -1,4 +1,5 @@
 cardboard
+default
 glass
 metal
 paper
